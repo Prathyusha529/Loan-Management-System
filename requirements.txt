@@ -1,0 +1,5 @@
+mysql-connector-python
+
+# To install it later, use:
+
+pip install -r requirements.txt
